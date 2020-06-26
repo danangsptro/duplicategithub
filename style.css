@@ -1,0 +1,18 @@
+.gambar{
+    background-image: url(..//pertemuan10/img/simple-codelines.svg);
+    background-color: rgb(121, 106, 106);
+    min-height: 600px;
+    color: white;
+    background-size: cover;
+}
+.layer3{
+    min-height: 200px;
+}
+.layer4{
+    min-height: 300px;
+    background-color: darkgrey;
+}
+.layer5{
+    min-height: 300px;
+    background-color: sandybrown;
+}
